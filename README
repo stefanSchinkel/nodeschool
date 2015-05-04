@@ -1,22 +1,15 @@
-http://nodeschool.io
-Started out w/ learnyounode, but locally
+nodeschool
+----------------
 
-Learn the basics of JavaScript. No previous programming experience required.
-npm install -g javascripting
+Instead of doing katas or sth like that, 
+I do nodeschool. Primarily because its fun.
 
-Learn Git and GitHub basics.
-npm install -g git-it
+For details instruction etc pp see http://nodeschool.io
 
-learnyounode
-Learn the basics of node: asynchronous i/o, http.
-npm install -g learnyounode
+Here are just the solutions to the ones I did, which 
+currently are: 
 
-How to npm
-Learn how to use and create npm modules.
-npm install -g how-to-npm
-
-stream-adventure
-Learn to compose streaming interfaces with .pipe().
-npm install -g stream-adventure
-
+  * javascripting
+  * learnyounode
+  * functional-javascript-workshop
 
